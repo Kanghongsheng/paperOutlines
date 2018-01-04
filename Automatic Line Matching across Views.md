@@ -21,3 +21,4 @@ For each segment in one image, a matching score is computed for all segments of 
 The epipolar geometry can also be used to reduce the search space.
 
 ## H-correlation score
+TODO!
