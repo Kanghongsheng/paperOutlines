@@ -1,7 +1,7 @@
 # Robust Line Matching Based on Ray-Point-Ray Structure Descriptor
 _by Kai Li, Jian Yao, Xiaohu Lu of Wuhan University in 2014_
 
-##Keywords
+## Keywords
 two-view line matching method; Ray-Point-Ray structures; SIFT-like descriptor 
 
 ## difficulties
